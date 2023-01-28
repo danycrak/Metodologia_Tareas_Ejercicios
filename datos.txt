@@ -1,0 +1,77 @@
+
+datos
+
+TIPOS PRIMITIVOS
+
+let = palabra reservada
+= asigna de un lado al otro
+let permite modificar el valor/
+
+let number = 5;
+let word = `sudamericano`;
+let status = true;
+string  es igual entre comillas solo "palabras"
+
+null no exite espacio ni nada
+undefined existe el espacio pero no hay dato
+
+*************************************************************
+
+TIPO OBJETO
+
+let array  = [2,3,4,5];
+let nomrs  = ["Juan", "Pedro", "Paola"]
+
+let nums = [2,3,4,5];
+console.log(nums[2]);
+
+
+ respuesta 4
+
+DEBER
+
+camel case
+Convencion 
+
+Datos Personales
+nombres	s
+apellidos	s
+nui	s
+telefono	s
+fecha de nac	s
+Direccion	s
+correo	s
+estado civil	bollou
+edad
+favoritos hobby array
+hijos array
+tiene Covid 	true
+
+Pregunta de examen
+
+let $ucre;
+let _userl
+let luser;
+javascript Info
+
+if condicion SI
+else condicion NO
+
+-
+
+let 
+if
+const
+white
+for
+console
+else 
+function
+Number
+Prompt
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+funciones
+
+function nombre ( array)
+
+retun true/false
